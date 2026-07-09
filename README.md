@@ -123,6 +123,7 @@ Built an interactive widget (using `ipywidgets`) directly inside the notebook, a
 **Aditi Bhardwaj**
 - GitHub: [@aditib145](https://github.com/aditib145)
 - Kaggle: [aditib145/aditi501](https://www.kaggle.com/aditib145)
+- linkedin: https://www.linkedin.com/in/aditi-bhardwaj-b4b52b33b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_content%3B79FzNOOVTauW8NzH8HJGwQ%3D%3D
 
 ---
 
